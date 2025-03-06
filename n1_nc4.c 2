@@ -1,0 +1,13 @@
+#include <stdio.h> 
+
+int main(){
+int idade = 25;
+int quantidade = 1;
+float altura = 1.75;
+dougle peso = 90.3;
+char letra = 'A';
+char Nome = "Sergio";
+  idade = 25;
+
+  quantidade = 10;
+}
